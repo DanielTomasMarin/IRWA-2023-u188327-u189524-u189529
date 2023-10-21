@@ -2,7 +2,7 @@
 README:  IRWA-2023-u188327-u189524-u189529-part-1
 
 To execute this code, you have to follow the following steps:
--	First download the folder with the name IRWA-2023-part-1 that contains all the files of the lab
+-	First download the zip with the name IRWA-2023-part-1 that contains all the files of the lab. To do this click on the zip with that name, and it opens it in a new window, that in the right of the window appears an emoticon with the shape for download, and it says download raw file, and it will download and you will be able to open the folder.
 -	When you open the folder, you will see 4 documents: 
     o	The first file is called IRWA-Project-2023-u188327-u189524-u189529-part-1.ipynb that is the code of our part 1.
     o	The second file has the name IRWA-2023-u188327-u189524-u189529-part-1 that is the pdf with all the explanations and our results of the lab
